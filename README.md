@@ -1,17 +1,17 @@
-# Micro Ajax
+# Tiny Ajax
 
 A very simple ajax.
 
 ## Install
 
 ```shell
-npm install --save micro-ajax
+npm install --save @mosuzi/tiny-ajax
 ```
 
 ## Usage
 
 ```javascript
-import TinyAjax from 'micro-ajax'
+import TinyAjax from '@mosuzi/tiny-ajax'
 
 const data = { id: 'fakeId' }
 
